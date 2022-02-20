@@ -9,11 +9,11 @@ source "$PLAYONLINUX/lib/sources"
 POL_System_SetArch "amd64"
 
 PREFIX="Prism"
-WINEVERSION="6.0-staging"
+WINEVERSION="7.0-Stable"
 TITLE="Prism8"
 EDITOR="Graphpad"
 GAME_URL="https://www.graphpad.com/"
-AUTHOR="DarkionAvey"
+AUTHOR="I0DIN3"
 
 #Initialization
 
